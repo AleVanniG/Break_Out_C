@@ -1,0 +1,40 @@
+H:\progetti con C#\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe.config
+H:\progetti con C#\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe
+H:\progetti con C#\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.pdb
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csprojResolveAssemblyReference.cache
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Form1.resources
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Properties.Resources.resources
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csproj.GenerateResource.Cache
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.exe
+H:\progetti con C#\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.pdb
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Form1.resources
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Properties.Resources.resources
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csproj.GenerateResource.Cache
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe.config
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.pdb
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.exe
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.pdb
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe.config
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.exe
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.pdb
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.pdb
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csprojResolveAssemblyReference.cache
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Form1.resources
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Properties.Resources.resources
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csproj.GenerateResource.Cache
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe.config
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.exe
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.pdb
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.exe
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Break_Out_C.pdb
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Form1.resources
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.Properties.Resources.resources
+C:\Users\TEMP.INFORN\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csproj.GenerateResource.Cache
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\obj\Debug\Break_Out_C.csprojResolveAssemblyReference.cache
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Immagine.png
+C:\Users\Ospite\Desktop\Break_Out_C\Break_Out_C\bin\Debug\Ball.png
+H:\progetti con C#\Break_Out_C\Break_Out_C\bin\Debug\Immagine.png
+H:\progetti con C#\Break_Out_C\Break_Out_C\bin\Debug\Ball.png
